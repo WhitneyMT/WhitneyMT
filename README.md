@@ -5,7 +5,7 @@
 - <b>Gauteng Department of Human Settlements</b>
   - [Claims Management System](https://github.com/WhitneyMT/CMS)
 - <b>City of Johannesburg</b>
-  - [Tourism Website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Tourism Website](https://github.com/WhitneyMT/COJ) 
 - <b>G-Fleet</b>
   - [Surveillance and Access Control Project](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Integrated Fleet Managemnet System](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -41,18 +41,3 @@
 [facebook]: https://www.facebook.com/share/1EEoftESRH/?mibextid=wwXIfr
 [instagram]: https://www.instagram.com/whitneytshavhu?igsh=dmdiZG5qM2txOXp2&utm_source=qr
 [linkedin]: www.linkedin.com/in/mukumela-whitney-tshavhungwe-5b9207275
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
