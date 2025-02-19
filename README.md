@@ -7,8 +7,8 @@
 - <b>City of Johannesburg</b>
   - [Tourism Website](https://github.com/WhitneyMT/COJ) 
 - <b>G-Fleet</b>
-  - [Surveillance and Access Control Project](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Integrated Fleet Managemnet System](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Surveillance and Access Control Project]()
+  - [Integrated Fleet Managemnet System](https://github.com/WhitneyMT/IFMS)
 
 <h2>👨‍💻 Software Testing Projects</h2>
 
