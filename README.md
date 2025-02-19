@@ -1,4 +1,4 @@
-<h1>Hi, I'm Whitney! <br/><a href="https://github.com/WhitneyMT">Business Analyst</a>, <a href="www.linkedin.com/in/mukumela-whitney-tshavhungwe-5b9207275">Software Tester</a>
+<h1>Hi, I'm Whitney! <br/><a href="https://github.com/WhitneyMT">Business Analyst</a>, <a href="https://www.linkedin.com/in/mukumela-whitney-tshavhungwe-5b9207275">Software Tester</a>
 
 <h2>👨‍💻 Business Analysis Projects:</h2>
 
