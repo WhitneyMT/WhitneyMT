@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business Analysis Projects:</h2>
 
 - <b>Gauteng Department of Human Settlements</b>
-  - [Claims Management System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Claims Management System](https://github.com/WhitneyMT/CMS)
 - <b>City of Johannesburg</b>
   - [Tourism Website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>G-Fleet</b>
@@ -13,7 +13,7 @@
 <h2>👨‍💻 Software Testing Projects</h2>
 
 - <b>City of Johannesburg: Tourism Website</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Tourism Website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 <h2> 📚 Certifications</h2>
 
