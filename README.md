@@ -12,8 +12,10 @@
 
 <h2>👨‍💻 Software Testing Projects</h2>
 
+- <b>Gauteng Department of Human Settlements</b>
+  - [Claims Management System](https://github.com/WhitneyMT/CMS)
 - <b>City of Johannesburg: Tourism Website</b>
-  - [Tourism Website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Tourism Website](https://github.com/WhitneyMT/COJ_Test) 
 
 <h2> 📚 Certifications</h2>
 
