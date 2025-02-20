@@ -7,7 +7,6 @@
 - <b>City of Johannesburg</b>
   - [Tourism Website](https://github.com/WhitneyMT/COJ) 
 - <b>G-Fleet</b>
-  - [Surveillance and Access Control Project]()
   - [Integrated Fleet Managemnet System](https://github.com/WhitneyMT/IFMS)
 
 <h2>👨‍💻 Software Testing Projects</h2>
@@ -43,3 +42,6 @@
 [facebook]: https://www.facebook.com/share/1EEoftESRH/?mibextid=wwXIfr
 [instagram]: https://www.instagram.com/whitneytshavhu?igsh=dmdiZG5qM2txOXp2&utm_source=qr
 [linkedin]: www.linkedin.com/in/mukumela-whitney-tshavhungwe-5b9207275
+
+  <!-- 
+    - [Surveillance and Access Control Project]()
